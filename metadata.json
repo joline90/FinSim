@@ -1,0 +1,5 @@
+{
+  "name": "FinSim - Personal Finance Simulator",
+  "description": "An advanced personal finance planning tool to simulate future cash flow, account balances, and net worth growth. Supports multi-account management and recurring income/expense planning.",
+  "requestFramePermissions": []
+}
